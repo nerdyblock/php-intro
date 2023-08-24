@@ -1,0 +1,16 @@
+{
+    "name": "akash/php-intro",
+    "authors": [
+        {
+            "name": "Akash Pal",
+            "email": "creativeakashpal@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "Http\\": "Http/"
+        }
+    }
+}
